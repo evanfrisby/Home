@@ -1,0 +1,21 @@
+{
+  "name": "beginner-coding-app",
+  "version": "1.0.0",
+  "description": "A basic web application designed for learning coding fundamentals.",
+  "main": "src/script.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "coding",
+    "learning",
+    "beginner",
+    "web",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
